@@ -1,6 +1,3 @@
----
-publish: "false"
----
 Should one read news and keep up to date on global affairs?
 
 I'm naturally curious, so for a long time I would have answered yes. After all, I already read books on history and politics. Adding newspapers to the mix seems like a slam dunk. Many positives of reading news are clear. Information is necessary to be a good, active citizen. How will you defend from misinformation, if you keep yourself in the dark? Or how will you feel when your friends discuss the latest scandal, of which you haven't even heard? Some of these reasons have merit, but many are a product of a fear of missing out.
